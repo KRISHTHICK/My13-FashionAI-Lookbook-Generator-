@@ -1,0 +1,7 @@
+FashionLookbookAI/
+│
+├── app.py
+├── requirements.txt
+├── sample_data/
+│   └── outfit1.jpg
+└── README.md
